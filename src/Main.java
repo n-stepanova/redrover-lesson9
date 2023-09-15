@@ -13,5 +13,8 @@ public class Main {
 
         //3
         System.out.println(TripleTrouble.tripleTrouble("this", "test", "lock"));
+
+        //4
+        System.out.println(FindThePosition.position('z'));
     }
 }
