@@ -11,6 +11,7 @@ public class Main {
         System.out.println(TheFeastOfManyBeasts.feast("chickadee","chocolate cake"));
         System.out.println(TheFeastOfManyBeasts.feast("brown bear","bear claw"));
 
-
+        //3
+        System.out.println(TripleTrouble.tripleTrouble("this", "test", "lock"));
     }
 }
