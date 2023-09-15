@@ -16,5 +16,8 @@ public class Main {
 
         //4
         System.out.println(FindThePosition.position('z'));
+
+        //5
+        System.out.println(ArrayPlusArray.arrayPlusArray(new int[]{1,2,3}, new int[]{4,5,6}));
     }
 }
